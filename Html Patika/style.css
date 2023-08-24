@@ -1,0 +1,81 @@
+.title-h1 {
+    color: #FFDBAA;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: none;
+
+}
+.menu{
+    text-align: center;
+}
+
+.menu1 {
+    text-decoration: none;
+    font-size: large;
+    color: #96C291;
+}
+
+.anasayfa-menu{
+    padding: 30px;
+    text-align: center;
+
+}
+.anasayfa-text{
+    text-decoration: none;
+    color: #91C8E4;
+    font-size: larger;
+}
+.hosgeldin-text{
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: medium;
+}
+.text-menu {
+    text-decoration: none;
+    color: #FFB7B7;
+    font-family: sans-serif;
+    padding: 10px;
+
+}
+
+.muzik-aletleri-text{
+    padding: 10px;
+    text-align: center;
+    color: #4D3C77;
+    font-family: 'Crimson Text', serif;
+
+}
+
+li.muzik-list1{
+   list-style: none;
+   list-style-position: inside;
+   text-align: center;
+   font-family: 'Noto Sans', sans-serif;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.urun-Gitar{
+    text-align: center;
+    padding-bottom: 10%;
+}
+
+.urun-Davul{
+    text-align: center;
+    padding-bottom: 10%;
+}
+
+.urun-Piyano{
+    text-align: center;
+    padding-bottom: 10%;
+}
+
+.urun-Keman{
+    text-align: center;
+    padding-bottom: 10%;
+}
